@@ -6,7 +6,7 @@ built.
 ## Layout
 
 ```
-site/        static files published as-is (index.html, style.css, app.js, 404.html)
+site/        static files published as-is (index.html, style.css, favicon.svg, 404.html)
 .github/     Pages deploy workflow
 ```
 
